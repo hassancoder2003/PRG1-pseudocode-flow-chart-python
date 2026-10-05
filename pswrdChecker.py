@@ -1,4 +1,4 @@
-CORRECT_PASSWORD = "password123"
+CORRECT_PASSWORD = "MyPassword"
 attempts = 0
 
 while True:
