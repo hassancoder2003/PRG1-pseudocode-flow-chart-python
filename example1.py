@@ -1,5 +1,5 @@
 """
-Day 1, Example 1: Taxi Fare Calculator (sequence only) zzz
+Day 1, Example 1: Taxi Fare Calculator (sequence only) zzz zzz zzz
  
 Python version of the pseudocode in Day1_PseudocodeFlowchart_Examples.md.
 Written to follow the pseudocode line for line, top to bottom, so the two can
